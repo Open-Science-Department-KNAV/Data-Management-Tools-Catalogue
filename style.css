@@ -288,9 +288,14 @@ h2 {
   color: #002E59;
 }
 
-.add-your-tool-box h4 {
+.add-your-tool-box a {
   margin: 0;
   font-size: 1.2rem;
+  color: #002E59;
+}
+
+.add-your-tool-box a:hover {
+  color: #FF7A01;
 }
 
 .add-your-tool-box img {
