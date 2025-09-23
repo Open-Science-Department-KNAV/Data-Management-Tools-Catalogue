@@ -260,14 +260,14 @@ h2 {
   font-size: 1.2rem;
 }
 
-.contact-box p {
+.contact-box a {
   margin: 0;
   line-height: 1.0;
   font-size: 1.1rem;
   color: #002E59;
 }
 
-.contact-box p:hover {
+.contact-box a:hover {
   color: #FF7A01;
 }
 
