@@ -264,6 +264,11 @@ h2 {
   margin: 0;
   line-height: 1.0;
   font-size: 1.1rem;
+  color: #002E59;
+}
+
+.contact-box p:hover {
+  color: #FF7A01;
 }
 
 .contact-box img {
